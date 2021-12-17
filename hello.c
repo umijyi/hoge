@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
 		{ "foo", "Hello, World!\n" },
 		{ "bar", "Saluton mondo!\n" },
 		{ "bo", "Bobobo-bo Bo-bobo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n" },
+		{ "je", "jeed-kun\n" },
 	};
 
 	if (argc >= 2)
