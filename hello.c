@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 	int i;
 	struct str_str table[] = {
 		{ "foo", "Hello, World!\n" },
-		{ "bar", "Saluton mondo!\n" },
+		{ "bar", "SAZANAMI BIGWAVE!\n" },
 	};
 
 	if (argc >= 2)
