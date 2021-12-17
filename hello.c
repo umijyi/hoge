@@ -12,6 +12,7 @@ int main(int argc, char *argv[])
 	struct str_str table[] = {
 		{ "foo", "Hello, World!\n" },
 		{ "bar", "Saluton mondo!\n" },
+		{ "bo", "Bobobo-bo Bo-bobo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n" },
 	};
 
 	if (argc >= 2)
